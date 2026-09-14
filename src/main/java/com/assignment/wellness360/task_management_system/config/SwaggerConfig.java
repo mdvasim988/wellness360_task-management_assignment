@@ -19,7 +19,7 @@ public class SwaggerConfig
                 .info(new Info()
                         .title("Task Management API")
                         .version("1.0")
-                        .description("Hiring assessment backend documentation with Basic Authentication."))
+                        .description("Hiring assessment backend documentation."))
                 .addSecurityItem(new SecurityRequirement().addList(securitySchemeName))
                 .components(new Components()
                         .addSecuritySchemes(securitySchemeName,
