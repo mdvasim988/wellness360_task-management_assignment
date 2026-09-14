@@ -120,6 +120,7 @@ You can interact with and test the system API endpoints using either **Swagger U
 ## Note
 
 1. Postman collection is attached for use.
+2. Unit test code is present in test folder
 
 
 ---
